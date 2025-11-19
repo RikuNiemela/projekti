@@ -1,6 +1,6 @@
 # Rekisteröinti- ja kirjautumisjärjestelmä (node.js + MongoDB Atlas)
 
-Yksinkertainen web-sovellus, joka sisältää rekisteröinti- jka kirjautumistoiminnot.
+Yksinkertainen web-sovellus, joka sisältää rekisteröinti- ja kirjautumistoiminnot.
 
 ## Ominaisuudet
 - Käyttäjän rekisteröinti
