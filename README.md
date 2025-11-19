@@ -3,9 +3,9 @@
 Yksinkertainen web-sovellus, joka sisältää rekisteröinti- jka kirjautumistoiminnot.
 
 ## Ominaisuudet
--Käyttäjän rekisteröinti
--Kirjautuminen
--Salasanojen hajautus (bcrypt)
--Tietojen tallennus MongoDB Atlas
--Yksinkertainen ja selkeä HTML käyttöliittymä
--Node.js ja express palvelin
+- Käyttäjän rekisteröinti
+- Kirjautuminen
+- Salasanojen hajautus (bcrypt)
+- Tietojen tallennus MongoDB Atlas
+- Yksinkertainen ja selkeä HTML käyttöliittymä
+- Node.js ja express palvelin
